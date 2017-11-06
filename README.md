@@ -2,7 +2,7 @@
 
 * How did you verify that you are parsing the contours correctly?
 
-  * I used a Jupyter notebook to load DICOM images and contours and display them.
+  * I used a Jupyter notebook (view [here](./data_nb.ipynb)) to load DICOM images and contours and display them.
     I displayed the contour masks overlaid on the DICOM images and manually
     verified a few sets.
 
